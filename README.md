@@ -1,23 +1,29 @@
 # Secure Password Generator
 
-## Description
-This project is a Password Generator developed using HTML, CSS, and JavaScript.
+## Project Description
 
-## Features
-- Generate secure passwords
-- Password length selection
-- Uppercase letters
-- Lowercase letters
-- Numbers
-- Special characters
-- Copy password
-- Show/Hide password
-- Password strength meter
+The Secure Password Generator is a web application developed using HTML, CSS, and JavaScript. It generates strong and random passwords based on user-selected options such as password length, uppercase letters, lowercase letters, numbers, and special characters. It also includes a password strength indicator, copy password feature, and show/hide password option.
+
+---
 
 ## Technologies Used
-- HTML5
-- CSS3
-- JavaScript
 
-## Author
-Sambhu Prasad Samantara
+* HTML5
+* CSS3
+* JavaScript
+
+---
+
+## Steps to Run the Project
+
+1. Download or clone the project.
+2. Open the project folder in Visual Studio Code.
+3. Make sure the following files are in the same folder:
+
+   * `index.html`
+   * `style.css`
+   * `script.js`
+4. Install the **Live Server** extension in VS Code (optional but recommended).
+5. Right-click on `index.html` and select **Open with Live Server**.
+6. The project will open in your web browser and is ready to use.
+
