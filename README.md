@@ -9,7 +9,7 @@ The Secure Password Generator is a web application developed using HTML, CSS, an
 ## Technologies Used
 
 * HTML5
-* CSS
+* CSS3
 * JavaScript
 
 ---
